@@ -9,7 +9,7 @@ import { Draggable } from "gsap/Draggable";
 gsap.registerPlugin(useGSAP, Flip, Draggable);
 
 import { useRef } from "react";
-import { group } from "console";
+
 
 
 
